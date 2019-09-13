@@ -16,6 +16,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <preference name="StatusBarOverlaysWebView" value="true" />
     <preference name="GOOGLE_MAPS_ANDROID_API_KEY" value="" />
     <preference name="GOOGLE_MAPS_IOS_API_KEY" value="" />
     <platform name="android">
